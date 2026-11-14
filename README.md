@@ -66,8 +66,8 @@ Eight queries in `sql/superstore_queries.sql`, including a year-over-year growth
 - **Page 1, Executive Overview:** KPI cards, monthly sales trend, sales by category and region, slicers for Year, Region and Category
 - **Page 2, Deep Dive:** top 10 products, customers and states; customers by RFM segment; average shipping days by ship mode
 
-![Executive Overview](dashboard/page1_overview.png)
-![Deep Dive](dashboard/page2_deepdive.png)
+![Executive Overview](Dashboard/page1_overview.png)
+![Deep Dive](Dashboard/page2_deepdive.png)
 
 ---
 
